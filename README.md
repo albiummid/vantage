@@ -16,7 +16,7 @@ This shell script helps you to provide [Lenovo Vantage](https://www.lenovo.com/u
 
 First of all, you need to clone the repository with this command:
 ```bash
-git clone https://github.com/niizam/vantage.git
+git clone https://github.com/albiummid/vantage.git
 cd vantage
 ```
 Then you can easily run this command:
